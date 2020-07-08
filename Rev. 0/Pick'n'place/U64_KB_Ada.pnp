@@ -1,0 +1,11 @@
+Pick'n'place coordinates exported from U64_KB_Ada.brd on 06.06.2020 14:28
+
+Value	Name	Footprint	x(inch)	y(inch)	theta	Side
+	DRL1	BOHR3,5	0.197	1.417	0	top
+PINS_1X20	J1	PINS_1X20V	2.598	1.100	90	bot
+	J2	1X20	1.050	1.752	180	top
+0805/gn	LD1	0805	0.681	1.613	180	top
+330R	R1	0805	0.850	1.613	0	top
+	U$6	2LAYER	2.744	1.919	90	top
+	U$9	SVEN_TAG	2.362	1.550	0	top
+	U$10	PCB-TITLE/	0.000	2.606	0	top
