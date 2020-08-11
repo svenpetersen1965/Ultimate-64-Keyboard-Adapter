@@ -3077,6 +3077,7 @@
 <text x="347.98" y="27.94" size="2.54" layer="95">151-1-01-00</text>
 <text x="347.98" y="22.86" size="2.54" layer="95">Sven Petersen</text>
 <text x="340.36" y="17.78" size="2.54" layer="95">0</text>
+<text x="279.4" y="7.62" size="2.54" layer="95">http://github.com/svenpetersen1965</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="0" y="0" smashed="yes">

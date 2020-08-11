@@ -248,6 +248,7 @@ all radius: 2.00</text>
 <text x="51.91125" y="76.35875" size="1.778" layer="48" font="vector" ratio="12">2</text>
 <text x="44.45" y="70.00875" size="1.778" layer="48" font="vector" ratio="12">0</text>
 <text x="69.69125" y="20.47875" size="1.27" layer="21" ratio="12" rot="R90">collaboration with @edu_arana</text>
+<text x="63.34125" y="5.3975" size="1.016" layer="21" ratio="12" rot="R90">http://github.com/svenpetersen1965</text>
 </plain>
 <libraries>
 <library name="Pin_Socket">
